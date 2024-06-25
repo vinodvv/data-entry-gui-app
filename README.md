@@ -18,7 +18,7 @@ A simple data entry application built using PyQt6. This application allows users
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/data-entry-app.git
+    git clone https://github.com/vinodvv/data-entry-app.git
     cd data-entry-app
     ```
 
